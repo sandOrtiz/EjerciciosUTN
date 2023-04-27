@@ -1,0 +1,4 @@
+precioUnitario producto codigo
+1 jabon 123f
+1 esponja 124f
+1 chocolates 125f
